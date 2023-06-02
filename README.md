@@ -40,7 +40,7 @@
     <script>
         function submitPetition(response) {
             if (response === 'yes') {
-                alert("Makasih soooo much \uD83D\uDE18");
+                alert("Makasih soooo much \uD83D\uDE18. jgn lupa send tw");
             } else if (response === 'no') {
                 alert("Select siottt \uD83D\uDE24");
             }
